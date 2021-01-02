@@ -1,0 +1,2 @@
+E:\c++\sfml\sfml projects\looping_noise\Debug\looping_noise.exe
+E:\c++\sfml\sfml projects\looping_noise\Debug\looping_noise.pdb
